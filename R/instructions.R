@@ -29,4 +29,8 @@ usethis::use_readme_md()
 #' Commit the changes in git
 use_git()
 use_github(protocol = "https")
+
+# in terminal : git remote set-url origin https://github.com/graveja0/sample-project.git
+# git remote -v
+
 #' Push the project to GitHub
