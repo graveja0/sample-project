@@ -27,5 +27,6 @@ create_project("~/Dropbox/Projects/sample-project")
 usethis::use_readme_md()
 
 #' Commit the changes in git
-
+use_git()
+use_github()
 #' Push the project to GitHub
