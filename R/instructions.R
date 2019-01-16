@@ -28,5 +28,5 @@ usethis::use_readme_md()
 
 #' Commit the changes in git
 use_git()
-use_github()
+use_github(protocol = "https")
 #' Push the project to GitHub
